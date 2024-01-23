@@ -1,24 +1,24 @@
-.filterּs {
+.filters {
     background-color: white;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
+    position: relative;
 }
-
-button {
+.filters button {
     font-size: 18px;
-    background-color: #ff5a5f;
+    background-color: #FF5A5F;
     color: #FFFFFF;
     height: 48px;
-    border: 0;
     width: 20%;
+    border: 0px;
     border-radius: 4px;
-    margin: 10px auto;
-    float: right;
-    margin-right: 20px;
+    align-content: center;
+    right: 30px;
+    top: 15%;
+    position: absolute;
 }
-
-button:hover {
-    opacity: 0.9;
+.filters button:hover {
+    opacity: 90%;
 }
