@@ -25,9 +25,6 @@ The AirBnB Clone project is a software engineering endeavor aimed at recreating 
 4. **Write** tests to cover changes and ensure existing tests pass.
 5. **Submit** a pull request with clear descriptions.
 
-### License
-The project is licensed under [insert license here]. Please review the license file for more information.
-
 ### Contact
 For questions or suggestions, contact project maintainers at mohammedmajidi321@gmail.com.
 
